@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFC2D1;
+}
+.personal-space-of-button{
+    position: absolute;
+    padding: 20px;
+    transition: left 0.3s ease-in-out, top 0.3s ease-in-out;
+}
+button{
+    background-color: #FB6F92;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+}
